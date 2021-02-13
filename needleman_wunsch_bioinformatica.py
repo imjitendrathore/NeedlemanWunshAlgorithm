@@ -1,7 +1,3 @@
-#____________________BIOINFORMATICA______________________#
-####----------------Needleman-Wunsch-----------------####
-
-#Created by Bineet Kumar Mohanta
 
 # Importing Modules
 import numpy as np
@@ -81,4 +77,3 @@ while(ti >0 and tj > 0):
 print(aligned_1)
 print(aligned_2)
 
-# Working :)
